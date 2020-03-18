@@ -1,2 +1,2 @@
 # Hello World!
-Remote learning is a go. 
+Remote [learning](/example) is a go. 
